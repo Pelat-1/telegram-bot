@@ -1,1 +1,3 @@
-spring.application.name=Telegram Example bot
+spring:
+  application:
+    name: Telegram bot
